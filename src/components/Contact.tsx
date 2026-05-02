@@ -92,8 +92,8 @@ export function Contact() {
                 href={c.href ?? "#"}
                 className="flex items-start gap-4 rounded-2xl border border-border bg-card p-5 shadow-card transition hover:-translate-y-0.5 hover:border-primary/30"
               >
-                <div className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-xl bg-accent">
-                  <c.icon className="h-5 w-5 text-primary" />
+                <div className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-xl bg-primary shadow-soft">
+                  <c.icon className="h-5 w-5 text-primary-foreground" />
                 </div>
                 <div>
                   <div className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">

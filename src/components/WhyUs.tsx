@@ -26,8 +26,8 @@ export function WhyUs() {
               key={it.title}
               className="rounded-2xl border border-border bg-card p-7 text-center shadow-card transition hover:-translate-y-1 hover:shadow-soft"
             >
-              <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-accent">
-                <it.icon className="h-7 w-7 text-primary" />
+              <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-primary shadow-soft">
+                <it.icon className="h-7 w-7 text-primary-foreground" />
               </div>
               <h3 className="mt-5 font-display text-lg font-semibold">{it.title}</h3>
               <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{it.desc}</p>
