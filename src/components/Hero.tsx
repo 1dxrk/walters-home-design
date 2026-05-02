@@ -37,7 +37,7 @@ export function Hero() {
 
           <h1 className="mt-6 font-display text-5xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-7xl">
             Reliable Plumbing &{" "}
-            <span className="bg-gradient-primary bg-clip-text text-transparent">
+            <span className="text-primary">
               Heating
             </span>{" "}
             You Can Trust
