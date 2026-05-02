@@ -95,8 +95,8 @@ export function Hero() {
           {/* Floating stat card */}
           <div className="absolute -bottom-6 -left-6 hidden rounded-2xl bg-card p-5 shadow-card ring-1 ring-border/60 sm:block">
             <div className="flex items-center gap-4">
-              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-accent">
-                <ShieldCheck className="h-6 w-6 text-primary" />
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-primary shadow-soft">
+                <ShieldCheck className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
                 <div className="font-display text-2xl font-bold">25+ yrs</div>
