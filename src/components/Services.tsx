@@ -67,8 +67,8 @@ export function Services() {
               <div className="absolute right-5 top-5 text-muted-foreground/30 transition-colors group-hover:text-primary">
                 <ArrowUpRight className="h-5 w-5" />
               </div>
-              <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-accent transition-colors group-hover:bg-gradient-primary">
-                <s.icon className="h-7 w-7 text-primary transition-colors group-hover:text-primary-foreground" />
+              <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-primary shadow-soft">
+                <s.icon className="h-7 w-7 text-primary-foreground" />
               </div>
               <h3 className="mt-5 font-display text-xl font-semibold">{s.title}</h3>
               <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{s.desc}</p>
