@@ -1,7 +1,7 @@
 import { CheckCircle2 } from "lucide-react";
 
 const points = [
-  "Family-owned and locally trusted since 1998",
+  "Proudly Black-owned and family operated since 1998",
   "Certified master plumbers on every job",
   "Upfront pricing — no hidden fees, ever",
 ];
@@ -29,7 +29,11 @@ export function About() {
         </div>
 
         <div>
-          <span className="text-sm font-semibold uppercase tracking-widest text-primary">
+          <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-primary">
+            <span className="h-2 w-2 rounded-full bg-primary" />
+            Proudly Black-Owned Business
+          </div>
+          <span className="mt-4 block text-sm font-semibold uppercase tracking-widest text-primary">
             About Walters
           </span>
           <h2 className="mt-3 font-display text-4xl font-bold tracking-tight sm:text-5xl">
