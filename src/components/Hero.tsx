@@ -34,6 +34,9 @@ export function Hero() {
             </span>
             24/7 Emergency Service
           </div>
+          <div className="mt-3 inline-flex items-center gap-2 rounded-full bg-foreground px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-background sm:ml-3">
+            ★ Proudly Black-Owned
+          </div>
 
           <h1 className="mt-6 font-display text-5xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-7xl">
             Reliable Plumbing &{" "}
