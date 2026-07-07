@@ -25,8 +25,8 @@ export function CtaBanner() {
                 variant="secondary"
                 className="h-12 rounded-full bg-card px-7 text-base text-foreground hover:bg-card/90"
               >
-                <a href="tel:5551234567">
-                  <Phone className="mr-2 h-4 w-4" /> Call (555) 123-4567
+                <a href="tel:2015757958">
+                  <Phone className="mr-2 h-4 w-4" /> Call (201) 575-7958
                 </a>
               </Button>
               <Button

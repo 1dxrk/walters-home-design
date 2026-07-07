@@ -37,11 +37,11 @@ export function Header() {
 
         <div className="flex items-center gap-3">
           <a
-            href="tel:5551234567"
+            href="tel:2015757958"
             className="hidden items-center gap-2 text-sm font-semibold text-foreground sm:flex"
           >
             <Phone className="h-4 w-4 text-primary" />
-            (555) 123-4567
+            (201) 575-7958
           </a>
           <Button asChild size="sm" className="rounded-full">
             <a href="#contact">Book Now</a>

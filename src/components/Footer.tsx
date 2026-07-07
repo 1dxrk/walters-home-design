@@ -55,10 +55,8 @@ export function Footer() {
               Contact
             </h4>
             <ul className="mt-4 space-y-2 text-sm text-muted-foreground">
-              <li>(555) 123-4567</li>
-              <li>hello@waltersph.com</li>
-              <li>Mon–Fri 7am–7pm</li>
-              <li>24/7 Emergency Service</li>
+              <li>(201) 575-7958</li>
+              <li>info@waltersplumbingnj.com</li>
             </ul>
           </div>
         </div>
