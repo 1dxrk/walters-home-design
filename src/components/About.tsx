@@ -1,7 +1,6 @@
 import { CheckCircle2 } from "lucide-react";
 
 const points = [
-  "Proudly Black-owned and family operated since 1998",
   "Certified master plumbers on every job",
   "Upfront pricing — no hidden fees, ever",
 ];
