@@ -83,7 +83,7 @@ export function Contact() {
           <div className="space-y-5 lg:col-span-2">
             {[
               { icon: Phone, label: "Call us anytime", value: "(201) 575-7958", href: "tel:5551234567" },
-              { icon: Mail, label: "Email", value: "info@waltersplumbingnj", href: "mailto:hello@waltersph.com" },
+              { icon: Mail, label: "Email", value: "info@waltersplumbingnj.com", href: "info@waltersplumbingnj.com" },
               { icon: MapPin, label: "Service area", value: "Fairlawn/Bergen County Area" },
               { icon: Clock, label: "Hours", value: "Mon–Fri 7am–7pm · 24/7 Emergency" },
             ].map((c) => (
