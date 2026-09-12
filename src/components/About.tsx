@@ -29,10 +29,6 @@ export function About() {
         </div>
 
         <div>
-          <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-primary">
-            <span className="h-2 w-2 rounded-full bg-primary" />
-            Proudly Black-Owned Business
-          </div>
           <span className="mt-4 block text-sm font-semibold uppercase tracking-widest text-primary">
             About Walters
           </span>
