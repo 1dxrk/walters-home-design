@@ -18,7 +18,6 @@ function App() {
         <Services />
         <About />
         <WhyUs />
-        <Testimonials />
         <CtaBanner />
         <Contact />
       </main>
